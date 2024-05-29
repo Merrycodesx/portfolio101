@@ -544,7 +544,8 @@ span{
     margin-top: 0;
     margin-left: 6rem;
     padding: 0;
-    font-size: 50px;
+    color: aliceblue;
+    font-size: 100px;
     line-height: 1.6;
     margin-bottom: 0;
     text-align: center;
@@ -559,7 +560,18 @@ span{
 }
 .footer ul li{
     display: inline-block;
-    padding: 0 15px;
+    padding: 0 25px;
+}
+list{
+    margin-top: 0;
+    margin-left: 6rem;
+    padding: 0;
+    color: aliceblue;
+    font-size: 100px;
+    line-height: 1.6;
+    margin-bottom: 0;
+    text-align: center;
+
 }
 .footer .copyright{
     margin-top: 50px;
